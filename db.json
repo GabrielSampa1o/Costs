@@ -6,6 +6,39 @@
       "cost": 0,
       "servises": [],
       "id": 1
+    },
+    {
+      "name": "projeto 3",
+      "budget": "501",
+      "category": {
+        "id": "2",
+        "name": "Desenvolviemento"
+      },
+      "cost": 0,
+      "servises": [],
+      "id": 2
+    },
+    {
+      "name": "Gabriel Silva Sampaio",
+      "budget": "65466",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "servises": [],
+      "id": 3
+    },
+    {
+      "name": "54",
+      "budget": "654",
+      "category": {
+        "id": "2",
+        "name": "Desenvolviemento"
+      },
+      "cost": 0,
+      "servises": [],
+      "id": 4
     }
   ],
   "categories": [
